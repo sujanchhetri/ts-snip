@@ -6,4 +6,5 @@ A snippet collection for typescript.
 * Classes & Interface : includes all snippets for Classes & Interface
 * Decorators : includes all snippets for Decorators
 * Generics : includes all snippets for Generics
-* react-ts : includes implementation of React with typescript
+* node-ts : includes implementation of Node.js with typescript
+* react-ts : includes implementation of React.js with typescript
